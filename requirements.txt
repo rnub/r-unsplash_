@@ -1,0 +1,2 @@
+python-unsplash==1.0.1
+praw==5.4.0
